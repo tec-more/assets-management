@@ -1,0 +1,9 @@
+{
+    "alias": "tukecx-assets",
+    "name": "Assets management",
+    "author": "Tukecx",
+    "description": "Assets management package.",
+    "type": "core",
+    "namespace": "Tukecx\\Base\\AssetsManagement",
+    "autoload": "psr-4"
+}
