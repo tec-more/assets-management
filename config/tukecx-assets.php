@@ -2,7 +2,7 @@
 /**
  * @author sangnm <sang.nguyenminh@elinext.com>
  * @since 22/07/2015 11:25 PM
- * @modified Tukecx <support@tukecx.com> <github.com/duyphan2502>
+ * @modified Tukecx <support@tukecx.com>
  */
 return [
     /**
